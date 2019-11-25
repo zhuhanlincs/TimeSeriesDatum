@@ -1,5 +1,19 @@
-# TimeSeriesDatum
-一个收集时间序列分析和机器学习相关算法的git
+# TimeSeriesDatum-UsefulWeb
+时间序列相关有用的网站
 
-张戎时间序列资源系列：
-时间序列简介（一） https://zhuanlan.zhihu.com/p/32584136
+数据集：
+
+
+代码：
+1.https://paperswithcode.com/task/time-series-prediction 时间序列预测论文及代码
+
+
+教程：
+
+
+
+论文分析：
+
+
+
+
